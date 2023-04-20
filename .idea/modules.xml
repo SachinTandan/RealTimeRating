@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MedicineProducer/MedicineProducer.iml" filepath="$PROJECT_DIR$/MedicineProducer/MedicineProducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatingProducer/RatingProducer.iml" filepath="$PROJECT_DIR$/RatingProducer/RatingProducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RealTimeRating.iml" filepath="$PROJECT_DIR$/.idea/RealTimeRating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RealTimeStreaming/RealTimeStreaming.iml" filepath="$PROJECT_DIR$/RealTimeStreaming/RealTimeStreaming.iml" />
+    </modules>
+  </component>
+</project>
